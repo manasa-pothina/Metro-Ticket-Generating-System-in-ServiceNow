@@ -118,6 +118,14 @@ This approach demonstrates how ServiceNow data resources and dynamic data bindin
 
 **Note:** The QR code currently represents ticket information for demonstration purposes. It does not provide verification against a live metro operator or an actual metro-gate scanning system.
 
+## 🎥 Project Demo
+
+Watch the Metro Ticket Generating System demonstration:
+
+[▶️ View the project demo](https://drive.google.com/file/d/14D1Od92QSr82xeMNpwBX5FkPQE21zVk3/view?usp=drivesdk)
+
+The demonstration covers ticket booking, automatic fare calculation, ticket number generation, booking confirmation, and the dynamic digital ticket with its QR code.
+
 ## 🧪 Testing
 
 The following scenarios were tested during development:
